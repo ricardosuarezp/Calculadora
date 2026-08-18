@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.cache
+*.tmp
+
+# Build results
+*.dll
+*.exe
+*.log
+*.pid
+*.pidb
+
+# NuGet
+packages/
+*.nupkg
+
+# Windows
+Thumbs.db
+Desktop.ini
