@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="MiCalculadora/MiCalculadora.csproj" Id="a8e9067f-9b05-4f95-9a63-d4920ba12ddb" />
+</Solution>
